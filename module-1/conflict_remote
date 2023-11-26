@@ -1,0 +1,2 @@
+This file is created for acheiving conflict.
+This file is not exist in local. when we push any other file(which is not in repo) then it should fail saying no sync in commits.
